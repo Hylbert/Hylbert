@@ -1,7 +1,7 @@
 ### Olá, eu sou o Hylbert Bentes! 👋
  <div>
   <a href="https://github.com/Hylbert">
-  <img height="180" width="475" src="https://github-readme-stats.vercel.app/api?username=Hylbert&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180" width="468" src="https://github-readme-stats.vercel.app/api?username=Hylbert&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hylbert&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
