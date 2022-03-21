@@ -12,4 +12,4 @@
   <a href="https://www.linkedin.com/in/hylbert-bentes-107595143" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
  
- ![](https://komarev.com/ghpvc/?username=hylbert&style=flat&color=red)
+ ![](https://komarev.com/ghpvc/?username=hylbert&style=for-the-badge&color=red)
