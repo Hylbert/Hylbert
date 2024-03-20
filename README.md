@@ -1,9 +1,6 @@
 ### Olá, eu sou o Hylbert Bentes! 👋
- <div>
-  <a href="https://github.com/Hylbert">
 
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hylbert&layout=compact&langs_count=7&theme=transparent"/>
-</div>
+  <a href="https://github.com/Hylbert">
 
  <div style="display: inline_block"><br>
 
